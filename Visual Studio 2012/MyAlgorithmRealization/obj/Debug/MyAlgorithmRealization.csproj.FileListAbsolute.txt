@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAlgorithmRealization\bin\Debug\MyAlgorithmRealization.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAlgorithmRealization\bin\Debug\MyAlgorithmRealization.exe
+c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAlgorithmRealization\bin\Debug\MyAlgorithmRealization.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAlgorithmRealization\obj\Debug\MyAlgorithmRealization.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAlgorithmRealization\obj\Debug\MyAlgorithmRealization.exe
+c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAlgorithmRealization\obj\Debug\MyAlgorithmRealization.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAlgorithmRealization\bin\Debug\WidwardsAlgorithmsLibrary.dll
+c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAlgorithmRealization\bin\Debug\WidwardsAlgorithmsLibrary.pdb
