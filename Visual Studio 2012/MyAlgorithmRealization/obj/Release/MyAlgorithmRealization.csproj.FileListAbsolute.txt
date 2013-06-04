@@ -1,0 +1,1 @@
+C:\repo\algorithmsRalizations\Visual Studio 2012\MyAlgorithmRealization\bin\Release\MyAlgorithmRealization.exe.config

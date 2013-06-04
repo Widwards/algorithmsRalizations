@@ -9,45 +9,21 @@ namespace MyAlgorithmRealization
 {
     class AlgorithmUsing
     {
-        //Правила:
-        // 0. Мультипликативные константы можно опускать
-        // 1. n^a растет быстрее, чем n^b, при a>b
-        // 2. Любая экспонента растет быстрее любого полинома
-        // 3. Любой полином растет быстрее любого полилогарифма
-
-
 
         static void Main(string[] args)
         {
-            
-
+            QuickSortUsing();
             Console.ReadKey();
         }
 
         
-
-        
-        
-        /// <summary>
-        /// <para>
-        /// O(n^2)
-        /// </para>
-        /// 0, 1, 1, 2, 3, 5, 8, 13...
-        /// <para>
-        /// экспоненциальная скорость роста
-        /// </para>
-        /// Fn=2^0.7n
-        /// <para>
-        /// Время работы работы T(n) >= T(n-1)+T(n-2)+3
-        /// </para>
-        /// </summary>
 
         private static void FibUsing()
         {
             Console.WriteLine("fib(n)   enter n:");
             try
             {
-                var fibonacci = WidwardsBasicAlgorithms.FibocacciLong(int.Parse(Console.ReadLine()));
+                var fibonacci = WidwardsBasicAlgorithms.Fibonacchi(int.Parse(Console.ReadLine()));
                 foreach (var f in fibonacci)
                 {
                     Console.Write(f.ToString() + " ");
@@ -59,6 +35,48 @@ namespace MyAlgorithmRealization
                 Console.WriteLine(e.Message);
             }
             
+        }
+
+        private static void QuickSortUsing()
+        {
+            Console.WriteLine("Enter number of elements [10]:");
+            int n=10;
+            try
+            {
+                int tmp = int.Parse(Console.ReadLine());
+                if (tmp != 0)
+                {
+                    n = tmp;
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            int[] arr = new int[n];
+
+            Random rd = new Random();
+
+            for (int i = 0; i < arr.Length; i++)
+			{
+                arr[i] = rd.Next(99);
+			}
+                
+
+            Console.WriteLine("Array before sorting:");
+            foreach (int i in arr)
+            {
+                Console.Write(i + "\t");
+            }
+            
+            WidwardsBasicAlgorithms.QuickSort(arr, 0, arr.Length-1);
+            Console.WriteLine("\n\nArray after sorting:");
+            foreach (int i in arr)
+            {
+                Console.Write(i+"\t");
+            }
+            Console.WriteLine();
         }
 
     }

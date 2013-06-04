@@ -2,3 +2,8 @@ c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\Widw
 c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\WidwardsAlgorithmsLibrary\bin\Debug\WidwardsAlgorithmsLibrary.pdb
 c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\WidwardsAlgorithmsLibrary\obj\Debug\WidwardsAlgorithmsLibrary.dll
 c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\WidwardsAlgorithmsLibrary\obj\Debug\WidwardsAlgorithmsLibrary.pdb
+C:\repo\algorithmsRalizations\Visual Studio 2012\WidwardsAlgorithmsLibrary\bin\Debug\WidwardsAlgorithmsLibrary.XML
+C:\repo\algorithmsRalizations\Visual Studio 2012\WidwardsAlgorithmsLibrary\bin\Debug\WidwardsAlgorithmsLibrary.dll
+C:\repo\algorithmsRalizations\Visual Studio 2012\WidwardsAlgorithmsLibrary\bin\Debug\WidwardsAlgorithmsLibrary.pdb
+C:\repo\algorithmsRalizations\Visual Studio 2012\WidwardsAlgorithmsLibrary\obj\Debug\WidwardsAlgorithmsLibrary.dll
+C:\repo\algorithmsRalizations\Visual Studio 2012\WidwardsAlgorithmsLibrary\obj\Debug\WidwardsAlgorithmsLibrary.pdb

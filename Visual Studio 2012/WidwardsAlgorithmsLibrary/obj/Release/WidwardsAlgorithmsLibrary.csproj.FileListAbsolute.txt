@@ -1,0 +1,4 @@
+C:\repo\algorithmsRalizations\Visual Studio 2012\WidwardsAlgorithmsLibrary\bin\Release\WidwardsAlgorithmsLibrary.dll
+C:\repo\algorithmsRalizations\Visual Studio 2012\WidwardsAlgorithmsLibrary\bin\Release\WidwardsAlgorithmsLibrary.pdb
+C:\repo\algorithmsRalizations\Visual Studio 2012\WidwardsAlgorithmsLibrary\obj\Release\WidwardsAlgorithmsLibrary.dll
+C:\repo\algorithmsRalizations\Visual Studio 2012\WidwardsAlgorithmsLibrary\obj\Release\WidwardsAlgorithmsLibrary.pdb

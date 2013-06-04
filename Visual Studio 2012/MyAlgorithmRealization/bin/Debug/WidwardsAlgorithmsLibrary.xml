@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WidwardsAlgorithmsLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:WidwardsAlgorithmsLibrary.WidwardsBasicAlgorithms">
+            <summary>
+            Моя реализация алгоритмов
+            <para>
+            Правила:
+            </para>
+            0. Мультипликативные константы можно опускать
+            <para>
+            1. n^a растет быстрее, чем n^b, при a>b
+            </para>
+            2. Любая экспонента растет быстрее любого полинома
+            <para>
+            3. Любой полином растет быстрее любого полилогарифма
+            </para>
+            </summary>
+        </member>
+        <member name="M:WidwardsAlgorithmsLibrary.WidwardsBasicAlgorithms.Fibonacchi(System.Int32)">
+            <summary>
+            Реализация алгоритма Фибоначчи
+            <para>
+            скорость O(n^2)
+            </para>
+            0, 1, 1, 2, 3, 5, 8, 13...
+            <para>
+            экспоненциальная скорость роста
+            </para>
+            Fn=2^0.7n
+            <para>
+            Время работы работы T(n) >= T(n-1)+T(n-2)+3
+            </para>
+            </summary>
+            <param name="n">Кол-во чисел фибоначчи</param>
+            <returns>Ряд фибоначчи</returns>
+        </member>
+        <member name="M:WidwardsAlgorithmsLibrary.WidwardsBasicAlgorithms.FibocacciLong(System.Int32)">
+            <summary>
+            Реализация алгоритма фибоначчи. Тип чисел ulong
+            <para>
+            O(n^2)
+            </para>
+            0, 1, 1, 2, 3, 5, 8, 13...
+            <para>
+            экспоненциальная скорость роста
+            </para>
+            Fn=2^0.7n
+            <para>
+            Время работы работы T(n) >= T(n-1)+T(n-2)+3
+            </para>
+            </summary>
+            <param name="n">Кол-во чисел фибоначчи</param>
+            <returns>Ряд фибонначи (ulong)</returns>
+        </member>
+        <member name="M:WidwardsAlgorithmsLibrary.WidwardsBasicAlgorithms.QuickSort(System.Int32[],System.Int32,System.Int32)">
+            <summary>
+            Быстрая сортировка
+            <para>
+            скорость O(n log n) (в некоторых случаях O(n^2))
+            </para>
+            </summary>
+            <param name="arr">Массив для сортировки</param>
+            <param name="min">Минимальный элемент для сортировки</param>
+            <param name="max">Максимальный элемент для сортировки</param>
+        </member>
+    </members>
+</doc>

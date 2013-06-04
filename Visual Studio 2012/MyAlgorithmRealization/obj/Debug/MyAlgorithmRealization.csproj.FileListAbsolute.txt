@@ -6,3 +6,12 @@ c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAl
 c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAlgorithmRealization\obj\Debug\MyAlgorithmRealization.pdb
 c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAlgorithmRealization\bin\Debug\WidwardsAlgorithmsLibrary.dll
 c:\users\admin\documents\visual studio 2012\Projects\MyAlgorithmRealization\MyAlgorithmRealization\bin\Debug\WidwardsAlgorithmsLibrary.pdb
+C:\repo\algorithmsRalizations\Visual Studio 2012\MyAlgorithmRealization\bin\Debug\MyAlgorithmRealization.exe.config
+C:\repo\algorithmsRalizations\Visual Studio 2012\MyAlgorithmRealization\obj\Debug\MyAlgorithmRealization.exe
+C:\repo\algorithmsRalizations\Visual Studio 2012\MyAlgorithmRealization\obj\Debug\MyAlgorithmRealization.pdb
+C:\repo\algorithmsRalizations\Visual Studio 2012\MyAlgorithmRealization\bin\Debug\MyAlgorithmRealization.exe
+C:\repo\algorithmsRalizations\Visual Studio 2012\MyAlgorithmRealization\bin\Debug\MyAlgorithmRealization.pdb
+C:\repo\algorithmsRalizations\Visual Studio 2012\MyAlgorithmRealization\bin\Debug\WidwardsAlgorithmsLibrary.pdb
+C:\repo\algorithmsRalizations\Visual Studio 2012\MyAlgorithmRealization\obj\Debug\MyAlgorithmRealization.csprojResolveAssemblyReference.cache
+C:\repo\algorithmsRalizations\Visual Studio 2012\MyAlgorithmRealization\bin\Debug\WidwardsAlgorithmsLibrary.dll
+C:\repo\algorithmsRalizations\Visual Studio 2012\MyAlgorithmRealization\bin\Debug\WidwardsAlgorithmsLibrary.xml
